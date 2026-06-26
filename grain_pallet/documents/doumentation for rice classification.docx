@@ -7,7 +7,9 @@ Project Title:
 GrainPalette – A Deep Learning Odyssey in Rice Type Classification Through Transfer Learning
 
 Overview:
-GrainPalette is a deep learning-based web application for classifying rice varieties from images. It uses transfer learning with CNNs to accurately identify rice types, helping farmers, millers, and exporters ensure rice quality. The system includes an intuitive web interface for uploading rice image and getting instant predictions.
+GrainPalette is a deep learning-based web application for classifying rice varieties from images. 
+It uses transfer learning with CNNs to accurately identify rice types, helping farmers, millers, and exporters ensure rice quality. 
+The system includes an intuitive web interface for uploading rice image and getting instant predictions.
 
 📌 2. Project Overview
 Purpose:-
