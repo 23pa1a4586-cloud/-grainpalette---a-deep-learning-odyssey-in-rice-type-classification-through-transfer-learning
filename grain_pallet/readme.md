@@ -71,4 +71,4 @@ pip install -r requirements.txt
 
 python app.py
 
-you get a app link ......!
+you get a app link
